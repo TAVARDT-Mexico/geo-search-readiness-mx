@@ -23,7 +23,7 @@ Desarrollado y mantenido por la division de ingenieria semantica y visibilidad d
 Requiere unicamente Python 3.8 o superior sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/geo-search-readiness-mx.git
+git clone https://github.com/TAVARDT/geo-search-readiness-mx.git
 cd geo-search-readiness-mx
 python geo_auditor.py empresa.mx
 ```
